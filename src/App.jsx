@@ -41,7 +41,7 @@ function App() {
         Click on the Vite and React logos to learn more
       </p>
 
-      <button className='button' onClick={handleClick}>ObtenerAvatar</button>
+      <button className='button' onClick={handleClick}>Obtener un Avatar</button>
 
     </>
   )
